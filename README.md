@@ -27,13 +27,12 @@ We are committed to guide/help learners who are intellectually impaired to be so
    git clone  https://github.com/Nokwanda2000/Ekukhanyeni-npo.git
 
 2. **Install Dependencies:**
+     ```sh 
+      npm install
+     
+3. **Run Development server:**
   ```sh 
-      npm install 
-
-3. **Start development server:**
-   ```sh
-      npm run dev 
-
+      npm run dev
 
 ## 🏗️ Tech Stack
 - **Frontend:** React, Tailwind CSS 
