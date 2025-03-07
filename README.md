@@ -16,11 +16,11 @@ We are committed to guide/help learners who are intellectually impaired to be so
 - ✅ Programmes
 - ✅ Contacts
 
-##🏗️ Tech Stack
+🏗️ Tech Stack
 - **Frontend:** React, Tailwind CSS 
 - **Backend:** Node.js, Express 
 - **Database:** Firebase 
-- **State Management:** Redux
+
 
 ### Prerequisites
 - Install [Node.js](https://nodejs.org/)
