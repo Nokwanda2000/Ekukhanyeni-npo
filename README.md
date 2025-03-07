@@ -24,6 +24,6 @@ We are committed to guide/help learners who are intellectually impaired to be so
   ### Steps
 1. **Clone the repository:**
    ```sh
-   git clone   ``
+   git clone  https://github.com/Nokwanda2000/Ekukhanyeni-npo.git  ``
 
 
