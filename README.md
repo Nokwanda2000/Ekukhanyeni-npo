@@ -34,7 +34,7 @@ We are committed to guide/help learners who are intellectually impaired to be so
   ```sh 
       npm run dev
 
-## 🏗️ Tech Stack
+ ##🏗️ Tech Stack
 - **Frontend:** React, Tailwind CSS 
 - **Backend:** Node.js, Express 
 - **Database:** Firebase 
