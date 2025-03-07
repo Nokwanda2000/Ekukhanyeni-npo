@@ -20,6 +20,10 @@ We are committed to guide/help learners who are intellectually impaired to be so
 ### Prerequisites
 - Install [Node.js](https://nodejs.org/)
 - Install a package manager (npm or yarn)
-
+  
+  ### Steps
+1. **Clone the repository:**
+   ```sh
+   git clone   ``
 
 
