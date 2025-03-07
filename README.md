@@ -5,7 +5,7 @@
 We are committed to guide/help learners who are intellectually impaired to be socially economically and spiritually independent.
 
 ## 🚀 Live Demo
-[https://ekukhanyeni-special-school-main.vercel.app/](#) 
+[https://ekukhanyeni-npo.onrender.com](#) 
 
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/27afa5d4-3b03-4ccb-86fc-91366df1af37)
