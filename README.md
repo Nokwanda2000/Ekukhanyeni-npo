@@ -16,11 +16,18 @@ We are committed to guide/help learners who are intellectually impaired to be so
 - ✅ Programmes
 - ✅ Contacts
   
-## Installation & Set-Up
+
 ### Prerequisites
 - Install [Node.js](https://nodejs.org/)
 - Install a package manager (npm or yarn)
-  
+
+   ##🏗️ Tech Stack
+- **Frontend:** React, Tailwind CSS 
+- **Backend:** Node.js, Express 
+- **Database:** Firebase 
+- **State Management:** Redux
+   
+## Installation & Set-Up
   ### Steps
 1. **Clone the repository:**
    ```sh
@@ -34,10 +41,6 @@ We are committed to guide/help learners who are intellectually impaired to be so
   ```sh 
       npm run dev
 
- ##🏗️ Tech Stack
-- **Frontend:** React, Tailwind CSS 
-- **Backend:** Node.js, Express 
-- **Database:** Firebase 
-- **State Management:** Redux 
+
 
    
