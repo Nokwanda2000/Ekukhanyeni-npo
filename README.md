@@ -2,5 +2,7 @@
 
 # Ekukhanyeni Special Shool
 ##Description
+
+
 `We are committed to guide/help learners who are intellectually impaired to be socially economically and spiritually independent.`
 
