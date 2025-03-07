@@ -15,17 +15,17 @@ We are committed to guide/help learners who are intellectually impaired to be so
 - ✅ Timetables
 - ✅ Programmes
 - ✅ Contacts
-  
+
+##🏗️ Tech Stack
+- **Frontend:** React, Tailwind CSS 
+- **Backend:** Node.js, Express 
+- **Database:** Firebase 
+- **State Management:** Redux
 
 ### Prerequisites
 - Install [Node.js](https://nodejs.org/)
 - Install a package manager (npm or yarn)
 
-   ##🏗️ Tech Stack
-- **Frontend:** React, Tailwind CSS 
-- **Backend:** Node.js, Express 
-- **Database:** Firebase 
-- **State Management:** Redux
    
 ## Installation & Set-Up
   ### Steps
