@@ -17,4 +17,9 @@ We are committed to guide/help learners who are intellectually impaired to be so
 - ✅ Contacts
   
 ## Installation & Set-Up
+### Prerequisites
+- Install [Node.js](https://nodejs.org/)
+- Install a package manager (npm or yarn)
+
+
 
