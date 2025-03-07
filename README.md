@@ -14,8 +14,8 @@ We are committed to guide/help learners who are intellectually impaired to be so
 - ✅ Home
 - ✅ Events
 - ✅ Timetables
-- ✅ Our Programs
-- ✅ Contact
+- ✅ Programmes
+- ✅ Contacts
   
 
 
