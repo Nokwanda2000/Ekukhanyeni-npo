@@ -26,15 +26,11 @@ We are committed to guide/help learners who are intellectually impaired to be so
    ```sh
    git clone  https://github.com/Nokwanda2000/Ekukhanyeni-npo.git
 
-2. **Navigate to project folder:**
-   ```sh
-   cd Ekukhanyeni-npo 
-
-3. **Install Dependencies:**
+2. **Install Dependencies:**
   ```sh 
       npm install 
 
-4. **Start development server:**
+3. **Start development server:**
    ```sh
       npm run dev 
 
