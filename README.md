@@ -28,20 +28,21 @@ We are committed to guide/help learners who are intellectually impaired to be so
 
 2. **Navigate to project folder:**
    ```sh
-   cd Ekukhanyeni-npo 
+   cd Ekukhanyeni-npo ``
 
 3. **Install Dependencies:**
   ```sh 
-      npm install
+      npm install ``
 
 4. **Start development server:**
    ```sh
-      npm run dev
+      npm run dev ``
+
 
 ## 🏗️ Tech Stack
 - **Frontend:** React, Tailwind CSS 
 - **Backend:** Node.js, Express 
-- **Database:** Firebase, MongoDB 
+- **Database:** Firebase 
 - **State Management:** Redux 
 
    
