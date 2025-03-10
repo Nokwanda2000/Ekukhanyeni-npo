@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function ContactUspage() {
+const Footer = () => {
   return (
     <div>
-      Contact Us
+     footer 
     </div>
   )
 }
+
+export default Footer

@@ -1,35 +1,48 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Navigation from './Components/Navigation';
+import Footer from './Components/Footer';
+import BackToTop from './Components/Backtop';
+
+// Regular Pages
+import Homepage from './Pages/Homepage';
+import ContactUspage from './Pages/ContactUspage';
+import AboutUspage from './Pages/AboutUspage';
+import Timetablespage from './Pages/Timetables';
+import Eventspage from './Pages/Eventspage';
+
+// CMS Pages
+import ContactUspagecms from './PagesForCMS/ContactUspagecms';
+import Eventspagecms from './PagesForCMS/Eventspagecms';
+import Timetablescms from './PagesForCMS/Timetablecms';
+import Userpagecms from './PagesForCMS/Userpagecms';
+import SignUpcms from './PagesForCMS/SignUpcms';
+import Navforcms from './PagesForCMS/Navforcms';
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    <BrowserRouter>
+      <Navigation />
+
+      <Routes>
+        <Route path="/" element={<Homepage />} />
+        <Route path="/ContactUspage" element={<ContactUspage />} />
+        <Route path="/AboutUspage" element={<AboutUspage />} />
+        <Route path="/Timetablespage" element={<Timetablespage />} />
+        <Route path="/Eventspage" element={<Eventspage />} />
+        <Route path="/BackToTop" element={<BackToTop />} />
+        
+        {/* CMS Pages */}
+        <Route path="/ContactUspagecms" element={<ContactUspagecms />} />
+        <Route path="/Eventspagecms" element={<Eventspagecms />} />
+        <Route path="/Timetablescms" element={<Timetablescms />} />
+        <Route path="/Userpagecms" element={<Userpagecms />} />
+        <Route path="/SignUpcms" element={<SignUpcms />} />
+        <Route path="/Navforcms" element={<Navforcms />} />
+      </Routes>
+
+      <Footer />
+    </BrowserRouter>
+  );
 }
 
-export default App
+export default App;

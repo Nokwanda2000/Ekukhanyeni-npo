@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function ContactUspage() {
+export default function Eventspage() {
   return (
     <div>
-      Contact Us
+    Event cms 
     </div>
   )
 }

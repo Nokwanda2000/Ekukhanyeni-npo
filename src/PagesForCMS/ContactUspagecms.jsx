@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function ContactUspage() {
+export default function ContactUspagecms() {
   return (
     <div>
-      Contact Us
+      ContactUspage
     </div>
   )
 }
