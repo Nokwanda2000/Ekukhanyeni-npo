@@ -1,11 +1,20 @@
 import { useState } from 'react'
 import './App.css'
-
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Layout from './Components/Layout'
+import ContactUspage from './Pages/ContactUspage';
 function App() {
 
   return (
     <>
-     <h1>Hello World</h1>
+  <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Layout />}>
+            <Route index element={<Home />} />
+            <Route path="ContactUspage" element={<ContactUspage />} />
+            </Route>
+        </Routes>
+      </BrowserRouter>
     </>
   )
 }
