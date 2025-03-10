@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function Layout() {
+const Footer = () => {
   return (
     <div>
-      
+     footer 
     </div>
   )
 }
+
+export default Footer

@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function AboutUs() {
+export default function Userpage() {
   return (
     <div>
-      
+      Userpage
     </div>
   )
 }

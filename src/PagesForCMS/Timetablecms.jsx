@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Timetables() {
+export default function Timetable() {
   return (
     <div>
-      
+      Timetable
     </div>
   )
 }

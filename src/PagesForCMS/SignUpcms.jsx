@@ -1,10 +1,9 @@
 import React from 'react'
 
-
-export default function ContactUs() {
+export default function SignUp() {
   return (
     <div>
-       
+      SignUp
     </div>
   )
 }
